@@ -1,0 +1,10 @@
+C:\Users\Alvaro Rivas\Desktop\VIAJES\VIAJES\bin\Debug\VIAJES.exe.config
+C:\Users\Alvaro Rivas\Desktop\VIAJES\VIAJES\bin\Debug\VIAJES.exe
+C:\Users\Alvaro Rivas\Desktop\VIAJES\VIAJES\bin\Debug\VIAJES.pdb
+C:\Users\Alvaro Rivas\Desktop\VIAJES\VIAJES\obj\Debug\VIAJES.csproj.AssemblyReference.cache
+C:\Users\Alvaro Rivas\Desktop\VIAJES\VIAJES\obj\Debug\VIAJES.Form1.resources
+C:\Users\Alvaro Rivas\Desktop\VIAJES\VIAJES\obj\Debug\VIAJES.Properties.Resources.resources
+C:\Users\Alvaro Rivas\Desktop\VIAJES\VIAJES\obj\Debug\VIAJES.csproj.GenerateResource.cache
+C:\Users\Alvaro Rivas\Desktop\VIAJES\VIAJES\obj\Debug\VIAJES.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Rivas\Desktop\VIAJES\VIAJES\obj\Debug\VIAJES.exe
+C:\Users\Alvaro Rivas\Desktop\VIAJES\VIAJES\obj\Debug\VIAJES.pdb

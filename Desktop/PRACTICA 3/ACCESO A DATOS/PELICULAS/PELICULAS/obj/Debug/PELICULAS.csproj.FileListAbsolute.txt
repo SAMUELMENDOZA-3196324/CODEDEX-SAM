@@ -1,0 +1,20 @@
+C:\Users\Alvaro Rivas\Desktop\PELICULAS\PELICULAS\bin\Debug\PELICULAS.exe.config
+C:\Users\Alvaro Rivas\Desktop\PELICULAS\PELICULAS\bin\Debug\PELICULAS.exe
+C:\Users\Alvaro Rivas\Desktop\PELICULAS\PELICULAS\bin\Debug\PELICULAS.pdb
+C:\Users\Alvaro Rivas\Desktop\PELICULAS\PELICULAS\obj\Debug\PELICULAS.csproj.AssemblyReference.cache
+C:\Users\Alvaro Rivas\Desktop\PELICULAS\PELICULAS\obj\Debug\PELICULAS.Form1.resources
+C:\Users\Alvaro Rivas\Desktop\PELICULAS\PELICULAS\obj\Debug\PELICULAS.Properties.Resources.resources
+C:\Users\Alvaro Rivas\Desktop\PELICULAS\PELICULAS\obj\Debug\PELICULAS.csproj.GenerateResource.cache
+C:\Users\Alvaro Rivas\Desktop\PELICULAS\PELICULAS\obj\Debug\PELICULAS.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Rivas\Desktop\PELICULAS\PELICULAS\obj\Debug\PELICULAS.exe
+C:\Users\Alvaro Rivas\Desktop\PELICULAS\PELICULAS\obj\Debug\PELICULAS.pdb
+C:\Users\Alvaro Rivas\Desktop\PRACTICA 3\ACCESO A DATOS\PELICULAS\PELICULAS\bin\Debug\PELICULAS.exe.config
+C:\Users\Alvaro Rivas\Desktop\PRACTICA 3\ACCESO A DATOS\PELICULAS\PELICULAS\bin\Debug\PELICULAS.exe
+C:\Users\Alvaro Rivas\Desktop\PRACTICA 3\ACCESO A DATOS\PELICULAS\PELICULAS\bin\Debug\PELICULAS.pdb
+C:\Users\Alvaro Rivas\Desktop\PRACTICA 3\ACCESO A DATOS\PELICULAS\PELICULAS\obj\Debug\PELICULAS.csproj.AssemblyReference.cache
+C:\Users\Alvaro Rivas\Desktop\PRACTICA 3\ACCESO A DATOS\PELICULAS\PELICULAS\obj\Debug\PELICULAS.Form1.resources
+C:\Users\Alvaro Rivas\Desktop\PRACTICA 3\ACCESO A DATOS\PELICULAS\PELICULAS\obj\Debug\PELICULAS.Properties.Resources.resources
+C:\Users\Alvaro Rivas\Desktop\PRACTICA 3\ACCESO A DATOS\PELICULAS\PELICULAS\obj\Debug\PELICULAS.csproj.GenerateResource.cache
+C:\Users\Alvaro Rivas\Desktop\PRACTICA 3\ACCESO A DATOS\PELICULAS\PELICULAS\obj\Debug\PELICULAS.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Rivas\Desktop\PRACTICA 3\ACCESO A DATOS\PELICULAS\PELICULAS\obj\Debug\PELICULAS.exe
+C:\Users\Alvaro Rivas\Desktop\PRACTICA 3\ACCESO A DATOS\PELICULAS\PELICULAS\obj\Debug\PELICULAS.pdb
